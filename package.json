@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-lpp",
+  "version": "1.0.0",
+  "description": "create first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinnPyaePyae/create-my-name.git"
+  },
+  "keywords": [
+    "show-my-name-lpp"
+  ],
+  "author": "lpp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinnPyaePyae/create-my-name/issues"
+  },
+  "homepage": "https://github.com/LinnPyaePyae/create-my-name#readme"
+}
